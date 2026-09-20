@@ -1,8 +1,8 @@
 # 2nd-year-notes
 
-## [Topics] 
-### [Pathology] 
-### [Microbiology] 
-### [Kinesiology]
-### [Kinesiotherapeutics] 
-### [Electrotherapy]
+## Topics
+### [Pathology] (./Pathology.md) 
+### [Microbiology] (./Microbiology.md)
+### [Kinesiology] (./Kinesiology.md)
+### [Kinesiotherapeutics] (./Kinesiotherapeutics.md)
+### [Electrotherapy] (./Electrotherapy.md)
