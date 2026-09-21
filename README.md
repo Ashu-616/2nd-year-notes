@@ -6,6 +6,3 @@
 ### -[Kinesiology](./Kinesiology.md)
 ### -[Kinesiotherapeutics](./Kinesiotherapeutics.md)
 ### -[Electrotherapy](./Electrotherapy.md)
-
-flowchart LR
-    Start --> Stop
